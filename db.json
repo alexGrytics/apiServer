@@ -3,6 +3,7 @@
       {
          "id":1,
          "name":"Dashboard",
+         "date : "2020-12-04 17:00:25",
          "type":"Members List",
          "mode":"feelings",
          "parameters":true,
@@ -14,6 +15,7 @@
       {
          "id":2,
          "name":"Dashboard",
+         "date : "2020-12-04 17:00:25",
          "type":"Full report",
          "mode":"statistics",
          "parameters":true,
@@ -25,6 +27,7 @@
       {
          "id":3,
          "name":"Dashboard",
+         "date : "2020-12-04 17:00:25",
          "type":"Members List",
          "mode":"feelings",
          "parameters":true,
@@ -36,6 +39,7 @@
       {
          "id":4,
          "name":"Dashboard",
+         "date : "2020-12-04 17:00:25",
          "type":"Posts List",
          "mode":"feelings",
          "parameters":true,
@@ -47,6 +51,7 @@
       {
          "id":5,
          "name":"Dashboard",
+         "date : "2020-12-04 17:00:25",
          "type":"MCGS",
          "mode":"feelings",
          "parameters":true,
