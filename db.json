@@ -32,6 +32,28 @@
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
          "owner":"Alex"
+      },
+      {
+         "id":4,
+         "name":"Dashboard",
+         "type":"Posts List",
+         "mode":"feelings",
+         "parameters":true,
+         "recipients":true,
+         "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
+         "next":"Next : 2021-01-01 at 13:00",
+         "owner":"Alex"
+      },
+      {
+         "id":5,
+         "name":"Dashboard",
+         "type":"MCGS",
+         "mode":"feelings",
+         "parameters":true,
+         "recipients":true,
+         "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
+         "next":"Next : 2021-01-01 at 13:00",
+         "owner":"Alex"
       }
    ]
 }
