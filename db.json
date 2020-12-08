@@ -1,5 +1,5 @@
 {
-   "reports":[
+   "reportsAll":[
       {
          "id":1,
          "name":"Dashboard",
@@ -54,6 +54,32 @@
          "date" : "2020-12-04 17:00:25",
          "type":"MCGS",
          "mode":"feelings",
+         "parameters":true,
+         "recipients":true,
+         "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
+         "next":"Next : 2021-01-01 at 13:00",
+         "owner":"Alex"
+      }
+   ],
+    "reportsPrivate":[
+      {
+         "id":1,
+         "name":"Dashboard",
+         "date" : "2020-12-04 17:00:25",
+         "type":"Members List",
+         "mode":"feelings",
+         "parameters":true,
+         "recipients":true,
+         "frequency":"Every Monday at 09:00 (UTC+00:00) Edinburgh",
+         "next":"Next : 2020-12-14 at 09:00",
+         "owner":"Alex"
+      },
+      {
+         "id":2,
+         "name":"Dashboard",
+         "date" : "2020-12-04 17:00:25",
+         "type":"Full report",
+         "mode":"statistics",
          "parameters":true,
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
