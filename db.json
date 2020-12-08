@@ -86,5 +86,19 @@
          "next":"Next : 2021-01-01 at 13:00",
          "owner":"Alex"
       }
+   ],
+   "reportsTeams":[
+      {
+         "id":1,
+         "name":"Dashboard",
+         "date" : "2020-12-04 17:00:25",
+         "type":"Members List",
+         "mode":"feelings",
+         "parameters":true,
+         "recipients":true,
+         "frequency":"Every Monday at 09:00 (UTC+00:00) Edinburgh",
+         "next":"Next : 2020-12-14 at 09:00",
+         "owner":"Alex"
+      }
    ]
 }
