@@ -10,7 +10,8 @@
          "recipients":true,
          "frequency":"Every Monday at 09:00 (UTC+00:00) Edinburgh",
          "next":"Next : 2020-12-14 at 09:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : false
       },
       {
          "id":2,
@@ -22,7 +23,8 @@
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : false
       },
       {
          "id":3,
@@ -34,7 +36,8 @@
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : true
       },
       {
          "id":4,
@@ -46,7 +49,8 @@
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : false
       },
       {
          "id":5,
@@ -58,7 +62,8 @@
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : true
       }
    ],
     "reportsPrivate":[
@@ -72,7 +77,8 @@
          "recipients":true,
          "frequency":"Every Monday at 09:00 (UTC+00:00) Edinburgh",
          "next":"Next : 2020-12-14 at 09:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : true
       },
       {
          "id":2,
@@ -84,7 +90,8 @@
          "recipients":true,
          "frequency":"Every First day of the month at 13:00 (UTC-03:00) Brasilia",
          "next":"Next : 2021-01-01 at 13:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : true
       }
    ],
    "reportsTeams":[
@@ -98,7 +105,8 @@
          "recipients":true,
          "frequency":"Every Monday at 09:00 (UTC+00:00) Edinburgh",
          "next":"Next : 2020-12-14 at 09:00",
-         "owner":"Alex"
+         "owner":"Alex",
+         "isPrivate" : false
       }
    ]
 }
